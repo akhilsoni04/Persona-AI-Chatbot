@@ -143,6 +143,7 @@ personality-chatbot/
 * HTML
 * CSS
 * JavaScript
+* Future Goal: Build modern, responsive, and production-ready professional web applications.
 
 ### Backend
 
